@@ -1189,6 +1189,18 @@ footer {
     background: #000;
     border-radius: 100%;
 }
+ul.footer-links {
+    display: block;
+}
+ul.footer-links li a {
+    color: #fff;
+    line-height: 2;
+    list-style-type: none;
+}
+
+ul.footer-links li a i {
+    padding-right: 13px;
+}
 
 
 /* footer */
