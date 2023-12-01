@@ -1278,3 +1278,14 @@ ul.footer-links li a i {
 .contactForm {
     padding-left: 30px;
 }
+.servBox p {
+    font-size: 14px;
+}
+
+.footerRow {
+    max-width: 100%;
+}
+
+.navLinks li {
+    padding: 10px 20px;
+}
